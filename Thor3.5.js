@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ungdung.tomau</string>
+				<string>com.ungdung.thor</string>
 				<key>bundle-version</key>
-				<string>3.52</string>
+				<string>3.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
