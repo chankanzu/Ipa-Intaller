@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ungdung.thor</string>
+				<string>com.thor</string>
 				<key>bundle-version</key>
 				<string>3.5</string>
 				<key>kind</key>
