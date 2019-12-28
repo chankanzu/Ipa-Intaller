@@ -23,9 +23,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Tap_to</string>
+				<string>Thor3</string>
 				<key>title</key>
-				<string>Tap_to</string>
+				<string>Thor3</string>
 			</dict>
 		</dict>
 	</array>
